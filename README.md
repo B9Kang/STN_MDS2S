@@ -19,12 +19,11 @@ Applies a self-supervised denoising technique (Multidimensional-Self2Self) to th
 ## Citation
 If you use this code for your research, please cite:
 
-@article{Kang2026,
-  title={Physics-informed optimization of saturation-transfer MRI protocols using nondifferentiable Bloch models},
-  author={Kang, Beomgu and others},
-  journal={Physics in Medicine and Biology},
-  year={2026},
-  publisher={IOP Publishing}
+@article{kang2026physics,
+	author={Kang, Beomgu and Singh, Munendra and Seo, Hyunseok and Park, Hyun Wook and Heo, Hye-Young},
+	title={Physics-informed optimization of saturation-transfer MRI protocols using non-differentiable Bloch models},
+	journal={Physics in Medicine & Biology},
+	year={2026},
 }
 
 @article{kang2024self,
