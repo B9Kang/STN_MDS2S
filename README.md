@@ -30,7 +30,7 @@ If you use this code for your research, please cite:
 	author={Kang, Beomgu and Singh, Munendra and Seo, Hyunseok and Park, Hyun Wook and Heo, Hye-Young},
 	title={Physics-informed optimization of saturation-transfer MRI protocols using non-differentiable Bloch models},
 	journal={Physics in Medicine & Biology},
-	year={2026},
+	year={2026}
 }
 
 @article{kang2024self,
