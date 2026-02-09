@@ -1,5 +1,7 @@
 # Motion Registration and Denoising for ST-MRF
-This repository provides the implementation of the motion correction and denoising pipeline used in the study: "Physics-informed optimization of saturation-transfer MRI protocols using nondifferentiable Bloch models" published in Physics in Medicine and Biology (2026).
+This repository provides the implementation of the motion correction and denoising pipeline used in the study: **"Physics-informed optimization of saturation-transfer MRI protocols using nondifferentiable Bloch models"** published in Physics in Medicine and Biology (2026).
+
+https://iopscience.iop.org/article/10.1088/1361-6560/ae4285
 
 ---
 
