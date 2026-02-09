@@ -7,11 +7,11 @@ https://iopscience.iop.org/article/10.1088/1361-6560/ae4285
 
 ## 🔍 Overview
 
-The pipeline consists of two main stages to enhance the quality of multidimensional Magnetic Resonance Fingerprinting (MRF) data:
+The pipeline consists of two main stages to enhance the quality of multidimensional MRI data:
 
 **1. Motion Registration (STN + NCC)**
 
-Compensate for motion artifacts by registering all dynamic scans to a reference ($S_0$) image. It utilizes a Spatial Transformer Network (STN) optimized with a Normalized Cross-Correlation (NCC) loss.
+Compensates for motion artifacts by registering all dynamic scans to a reference ($S_0$; first scan; normalization scan) image. It utilizes a Spatial Transformer Network (STN) optimized with a Normalized Cross-Correlation (NCC) loss.
 
 **2. Denoising (MD-S2S)** 
 
