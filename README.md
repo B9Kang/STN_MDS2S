@@ -9,7 +9,7 @@ The pipeline consists of two main stages to enhance the quality of multidimensio
 
 **1. Motion Registration (STN + NCC)**
 
-Compendsate for motion artifacts by registering all dynamic scans to a reference ($S_0$) image. It utilizes a Spatial Transformer Network (STN) optimized with a Normalized Cross-Correlation (NCC) loss.
+Compensate for motion artifacts by registering all dynamic scans to a reference ($S_0$) image. It utilizes a Spatial Transformer Network (STN) optimized with a Normalized Cross-Correlation (NCC) loss.
 
 **2. Denoising (MD-S2S)** 
 
