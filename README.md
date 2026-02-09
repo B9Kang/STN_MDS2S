@@ -17,6 +17,11 @@ Compensate for motion artifacts by registering all dynamic scans to a reference 
 
 Applies a self-supervised denoising technique (Multidimensional-Self2Self) to the registered images. This stage uses an optimization scheme where the network is trained and tested on the same dataset, making it applicable even without a large training corpus.
 
+## Results
+
+![Pipeline Result](./pipeline_result.png)
+*Figure 1. Comparison of Original, Registered, and Registered+Denoised ST-MRF scans and their corresponding estimated tissue parameter maps.*
+
 
 ## Citation
 If you use this code for your research, please cite:
